@@ -9,3 +9,5 @@ El funcionamiento básico del patrón MVC, puede resumirse en:
 4.- El modelo sera el encargado de interactuar con la base de datos.
 5.- El controlador recibe la información y la enviá a la vista.
 6.- La vista muestra la información.
+
+# By - Luis E. Gomez C.
